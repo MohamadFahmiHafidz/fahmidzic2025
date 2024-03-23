@@ -1,0 +1,39 @@
+Tag HTML that I used in my homepage :
+1. nav
+2. a
+3. h1
+4. div
+5. p
+6. img
+7. iframe
+8. table
+9. audio
+10. br
+11. h6
+12. footer
+13. input
+14. text area
+15. label
+
+
+Class Css that I used in my homepage :
+1. h1fahmi : style for h1 that contain setting for font-family, font size, color and text-align
+2. centerfahmi : style for specific division that contain setting for font-family, font size, color and text-align
+3. footerfahmi : style for footer that contain setting for position, left, bottom, width, height, background-color, color, text-align
+4. h4fahmi : style for h4 that contain setting for font-family, font size, color and text-align
+5. body : style for background color of Body
+6. imgfahmi & imgfahmi2 : style for image that contain setting for width & height of image
+7. video container & responsive video : style for video that contain setting for displaying 2 video in parallel
+
+
+Javascript that I used in my homepage :
+1. Blink text of h1 every 1000 ms = 1 s
+2. Show Windows greeting (Hello + Username) if username input their name
+3. Show message "Your Message Has Been Sent. Thank You! after user clicked Send Message Button
+
+
+Bootstrat that I used in my homepage :
+1. All file : class="container-fluid"   : a full width container, spanning the entire width of the viewport.
+2. All file : class="btn btn-primary"   : make buttons at header that responsive in any device
+
+
